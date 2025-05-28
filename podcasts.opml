@@ -1,23 +1,29 @@
-<?xml version='1.0' encoding='UTF-8' standalone='no' ?>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <opml version="2.0">
   <head>
     <title>AntennaPod Subscriptions</title>
-    <dateCreated>05 May 25 21:17:52 -0400</dateCreated>
+    <dateCreated>27 May 25 23:10:16 -0400</dateCreated>
   </head>
   <body>
-    <outline text="1A" title="1A" type="rss" xmlUrl="https://feeds.npr.org/510316/podcast.xml" htmlUrl="https://www.npr.org/podcasts/510316/1a" />
-    <outline text="Breaking Points with Krystal and Saagar" title="Breaking Points with Krystal and Saagar" type="rss" xmlUrl="https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/e7fd5ae7-7621-4e41-9b85-b0ab0164b634/4c1a5135-4197-47c9-b19b-b0ab0164b667/podcast.rss" htmlUrl="https://www.iheart.com/podcast/867-breaking-points-with-kryst-83441143/" />
-    <outline text="Consider This from NPR" title="Consider This from NPR" type="rss" xmlUrl="https://feeds.npr.org/510355/podcast.xml" htmlUrl="https://www.npr.org/podcasts/510355/considerthis" />
-    <outline text="Lex Fridman Podcast" title="Lex Fridman Podcast" type="rss" xmlUrl="https://lexfridman.com/feed/podcast/" htmlUrl="https://lexfridman.com/" />
-    <outline text="Life Kit" title="Life Kit" type="rss" xmlUrl="https://feeds.npr.org/510338/podcast.xml" htmlUrl="https://www.npr.org/podcasts/510338/all-guides" />
-    <outline text="NPR News Now" title="NPR News Now" type="rss" xmlUrl="https://feeds.npr.org/500005/podcast.xml" htmlUrl="https://www.npr.org/podcasts/500005/npr-news-now" />
-    <outline text="Planet Money" title="Planet Money" type="rss" xmlUrl="https://feeds.npr.org/510289/podcast.xml" htmlUrl="https://www.npr.org/podcasts/510289/planet-money" />
-    <outline text="Short Wave" title="Short Wave" type="rss" xmlUrl="https://feeds.npr.org/510351/podcast.xml" htmlUrl="https://www.npr.org/podcasts/510351/short-wave" />
-    <outline text="TED Radio Hour" title="TED Radio Hour" type="rss" xmlUrl="https://feeds.npr.org/510298/podcast.xml" htmlUrl="https://www.npr.org/podcasts/510298/ted-radio-hour" />
-    <outline text="The Diary Of A CEO with Steven Bartlett" title="The Diary Of A CEO with Steven Bartlett" type="rss" xmlUrl="https://feeds.megaphone.fm/thediaryofaceo" />
-    <outline text="The Joe Rogan Experience" title="The Joe Rogan Experience" type="rss" xmlUrl="https://feeds.megaphone.fm/GLT1412515089" />
-    <outline text="Undercurrents" title="Undercurrents" type="rss" xmlUrl="https://feeds.acast.com/public/shows/66a213f122781665a98b6e29" htmlUrl="https://shows.acast.com/undercurrents" />
-    <outline text="Up First from NPR" title="Up First from NPR" type="rss" xmlUrl="https://feeds.npr.org/510318/podcast.xml" htmlUrl="https://www.npr.org/podcasts/510318/up-first" />
-    <outline text="Wait Wait... Don't Tell Me!" title="Wait Wait... Don't Tell Me!" type="rss" xmlUrl="https://feeds.npr.org/344098539/podcast.xml" htmlUrl="https://www.npr.org/podcasts/344098539/wait-wait-don-t-tell-me" />
+    <outline text="1A" title="1A" type="rss" xmlUrl="https://feeds.npr.org/510316/podcast.xml" htmlUrl="https://www.npr.org/podcasts/510316/1a"/>
+    <outline text="Breaking Points with Krystal and Saagar" title="Breaking Points with Krystal and Saagar" type="rss" xmlUrl="https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/e7fd5ae7-7621-4e41-9b85-b0ab0164b634/4c1a5135-4197-47c9-b19b-b0ab0164b667/podcast.rss" htmlUrl="https://www.iheart.com/podcast/867-breaking-points-with-kryst-83441143/"/>
+    <outline text="Coaching Corner" title="Coaching Corner" type="rss" xmlUrl="https://feeds.captivate.fm/jaydigains-coaching-corner/" htmlUrl="https://jaydharrisonfitness.com/podcast"/>
+    <outline text="Consider This from NPR" title="Consider This from NPR" type="rss" xmlUrl="https://feeds.npr.org/510355/podcast.xml" htmlUrl="https://www.npr.org/podcasts/510355/considerthis"/>
+    <outline text="Keeping It Real: Conversations with Jillian Michaels" title="Keeping It Real: Conversations with Jillian Michaels" type="rss" xmlUrl="https://rss.art19.com/jillian-michaels" htmlUrl="https://www.jillianmichaels.com/"/>
+    <outline text="Lex Fridman Podcast" title="Lex Fridman Podcast" type="rss" xmlUrl="https://lexfridman.com/feed/podcast/" htmlUrl="https://lexfridman.com/"/>
+    <outline text="Life Kit" title="Life Kit" type="rss" xmlUrl="https://feeds.npr.org/510338/podcast.xml" htmlUrl="https://www.npr.org/podcasts/510338/all-guides"/>
+    <outline text="NPR News Now" title="NPR News Now" type="rss" xmlUrl="https://feeds.npr.org/500005/podcast.xml" htmlUrl="https://www.npr.org/podcasts/500005/npr-news-now"/>
+    <outline text="Planet Money" title="Planet Money" type="rss" xmlUrl="https://feeds.npr.org/510289/podcast.xml" htmlUrl="https://www.npr.org/podcasts/510289/planet-money"/>
+    <outline text="Short Wave" title="Short Wave" type="rss" xmlUrl="https://feeds.npr.org/510351/podcast.xml" htmlUrl="https://www.npr.org/podcasts/510351/short-wave"/>
+    <outline text="TED Radio Hour" title="TED Radio Hour" type="rss" xmlUrl="https://feeds.npr.org/510298/podcast.xml" htmlUrl="https://www.npr.org/podcasts/510298/ted-radio-hour"/>
+    <outline text="The Diary Of A CEO with Steven Bartlett" title="The Diary Of A CEO with Steven Bartlett" type="rss" xmlUrl="https://feeds.megaphone.fm/thediaryofaceo"/>
+    <outline text="The Joe Rogan Experience" title="The Joe Rogan Experience" type="rss" xmlUrl="https://feeds.megaphone.fm/GLT1412515089"/>
+    <outline text="The Jordan B. Peterson Podcast" title="The Jordan B. Peterson Podcast" type="rss" xmlUrl="https://feeds.simplecast.com/vsy1m5LV" htmlUrl="https://www.jordanbpeterson.com"/>
+    <outline text="The Podcast of the Lotus Eaters" title="The Podcast of the Lotus Eaters" type="rss" xmlUrl="https://feeds.soundcloud.com/users/soundcloud:users:896213575/sounds.rss" htmlUrl="https://soundcloud.com/lotuseaters_com"/>
+    <outline text="TRIGGERnometry" title="TRIGGERnometry" type="rss" xmlUrl="https://feeds.megaphone.fm/AALT9618167458" htmlUrl="https://triggernometry.substack.com/"/>
+    <outline text="Undercurrents" title="Undercurrents" type="rss" xmlUrl="https://feeds.acast.com/public/shows/66a213f122781665a98b6e29" htmlUrl="https://shows.acast.com/undercurrents"/>
+    <outline text="Up First from NPR" title="Up First from NPR" type="rss" xmlUrl="https://feeds.npr.org/510318/podcast.xml" htmlUrl="https://www.npr.org/podcasts/510318/up-first"/>
+    <outline text="Wait Wait... Don't Tell Me!" title="Wait Wait... Don't Tell Me!" type="rss" xmlUrl="https://feeds.npr.org/344098539/podcast.xml" htmlUrl="https://www.npr.org/podcasts/344098539/wait-wait-don-t-tell-me"/>
+    <outline text="Wild Card with Rachel Martin" title="Wild Card with Rachel Martin" type="rss" xmlUrl="https://feeds.npr.org/510379/podcast.xml" htmlUrl="https://www.npr.org/podcasts/510379/wild-card-with-rachel-martin"/>
   </body>
 </opml>
