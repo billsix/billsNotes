@@ -2,9 +2,20 @@
 <opml version="2.0">
     <head>
         <title>Miniflux</title>
-        <dateCreated>Sat, 28 Jun 2025 14:24:57 UTC</dateCreated>
+        <dateCreated>Fri, 18 Jul 2025 02:59:30 UTC</dateCreated>
     </head>
     <body>
+        <outline text="AAFriends">
+            <outline title="John Kaneko" text="John Kaneko" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC4UExOqaFAkDlwAFles3qcg" htmlUrl="https://www.youtube.com/channel/UC4UExOqaFAkDlwAFles3qcg" type="rss"/>
+        </outline>
+        <outline text="AALinuxUpdates">
+            <outline title="Arch Linux: Recent news updates" text="Arch Linux: Recent news updates" xmlUrl="https://archlinux.org/feeds/news/" htmlUrl="https://archlinux.org/news/" type="rss"/>
+            <outline title="Debian News" text="Debian News" xmlUrl="https://www.debian.org/News/news" htmlUrl="https://www.debian.org/News/" type="rss"/>
+            <outline title="Fedora Magazine" text="Fedora Magazine" xmlUrl="https://fedoramagazine.org/feed/" htmlUrl="https://fedoramagazine.org/" type="rss"/>
+            <outline title="Gentoo Linux" text="Gentoo Linux" xmlUrl="https://www.gentoo.org/feeds/news.xml" htmlUrl="https://www.gentoo.org/" type="rss"/>
+            <outline title="Gentoo Linux security advisories" text="Gentoo Linux security advisories" xmlUrl="https://security.gentoo.org/glsa/feed.rss" htmlUrl="https://security.gentoo.org/glsa" type="rss"/>
+            <outline title="Planet GNOME" text="Planet GNOME" xmlUrl="https://planet.gnome.org/rss20.xml" htmlUrl="https://planet.gnome.org/" type="rss"/>
+        </outline>
         <outline text="AI">
             <outline title="Anthropic News" text="Anthropic News" xmlUrl="https://raw.githubusercontent.com/Olshansk/rss-feeds/refs/heads/main/feeds/feed_anthropic.xml" htmlUrl="https://anthropic.com/news/feed_anthropic.xml" type="rss"/>
             <outline title="Apple: Social Sciences" text="Apple: Social Sciences" xmlUrl="https://feeds.npr.org/2050/rss.xml" htmlUrl="https://www.npr.org/templates/story/story.php?storyId=2050" type="rss"/>
@@ -15,7 +26,6 @@
         </outline>
         <outline text="Books">
             <outline title="NPR Topics: Art &amp; Design" text="NPR Topics: Art &amp; Design" xmlUrl="https://feeds.npr.org/1047/rss.xml" htmlUrl="https://www.npr.org/templates/story/story.php?storyId=1047" description="NPR explores the visual arts including design, photography, sculpture, and architecture. Interviews, commentary, and audio. Subscribe to the RSS feed." type="rss"/>
-            <outline title="NPR Topics: Book Reviews" text="NPR Topics: Book Reviews" xmlUrl="https://feeds.npr.org/1034/rss.xml" htmlUrl="https://www.npr.org/templates/story/story.php?storyId=1034" description="Summary judgment on books of note, from NPR personalities, independent booksellers and critics from across the public-radio spectrum." type="rss"/>
             <outline title="NPR Topics: Books" text="NPR Topics: Books" xmlUrl="https://feeds.npr.org/1032/rss.xml" htmlUrl="https://www.npr.org/templates/story/story.php?storyId=1032" description="NPR's brings you news about books and authors along with our picks for great reads. Interviews, reviews, and much more." type="rss"/>
             <outline title="NPR Topics: Performing Arts" text="NPR Topics: Performing Arts" xmlUrl="https://feeds.npr.org/1046/rss.xml" htmlUrl="https://www.npr.org/templates/story/story.php?storyId=1046" description="News, interviews, and commentary on theater, the arts, music, and dance." type="rss"/>
         </outline>
@@ -25,7 +35,6 @@
         </outline>
         <outline text="Comedy">
             <outline title="Babylon Bee" text="Babylon Bee" xmlUrl="https://babylonbee.com/feed" htmlUrl="https://babylonbee.com" type="rss"/>
-            <outline title="Beats By AI" text="Beats By AI" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC_XhaNIPaqmmbKLrm4kAVZQ" htmlUrl="https://www.youtube.com/channel/UC_XhaNIPaqmmbKLrm4kAVZQ" type="rss"/>
             <outline title="Diaper Diplomacy" text="Diaper Diplomacy" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCPrWnIyY8iKVPvNg93osLZw" htmlUrl="https://www.youtube.com/channel/UCPrWnIyY8iKVPvNg93osLZw" type="rss"/>
             <outline title="DivorcedDad" text="DivorcedDad" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCq1xxkzK5OQc6wExu9FH5oA" htmlUrl="https://www.youtube.com/channel/UCq1xxkzK5OQc6wExu9FH5oA" type="rss"/>
             <outline title="Funny Or Die" text="Funny Or Die" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCzS3-65Y91JhOxFiM7j6grg" htmlUrl="https://www.youtube.com/channel/UCzS3-65Y91JhOxFiM7j6grg" type="rss"/>
@@ -45,7 +54,6 @@
         <outline text="Commentary">
             <outline title="Arielle Scarcella" text="Arielle Scarcella" xmlUrl="http://192.168.0.186:8090/?link=https://rumble.com/c/ArielleScarcella" htmlUrl="https://rumble.com/c/ArielleScarcella" type="rss"/>
             <outline title="Billie Rae Brandt" text="Billie Rae Brandt" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCl4yv6grUK9tM8OQGcPeB9w" htmlUrl="https://www.youtube.com/channel/UCl4yv6grUK9tM8OQGcPeB9w" type="rss"/>
-            <outline title="Bridget Phetasy" text="Bridget Phetasy" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC5SQnm72FspDNUXK4cB2_xg" htmlUrl="https://www.youtube.com/channel/UC5SQnm72FspDNUXK4cB2_xg" type="rss"/>
             <outline title="Jennifer Moleski" text="Jennifer Moleski" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCt44YmXupeOjW8J02aEz77w" htmlUrl="https://www.youtube.com/channel/UCt44YmXupeOjW8J02aEz77w" type="rss"/>
             <outline title="karen straughan" text="karen straughan" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCcmnLu5cGUGeLy744WS-fsg" htmlUrl="https://www.youtube.com/channel/UCcmnLu5cGUGeLy744WS-fsg" type="rss"/>
             <outline title="LastWeekTonight" text="LastWeekTonight" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC3XTzVzaHQEd30rQbuvCtTQ" htmlUrl="https://www.youtube.com/channel/UC3XTzVzaHQEd30rQbuvCtTQ" type="rss"/>
@@ -85,7 +93,6 @@
             <outline title="Tom Looman" text="Tom Looman" xmlUrl="https://www.tomlooman.com/feed/" htmlUrl="https://www.tomlooman.com/" type="rss"/>
         </outline>
         <outline text="History">
-            <outline title="NPR Topics: History" text="NPR Topics: History" xmlUrl="https://feeds.npr.org/1136/rss.xml" htmlUrl="https://www.npr.org/templates/story/story.php?storyId=1136" type="rss"/>
             <outline title="PBS Eons" text="PBS Eons" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCzR-rom72PHN9Zg7RML9EbA" htmlUrl="https://www.youtube.com/channel/UCzR-rom72PHN9Zg7RML9EbA" type="rss"/>
             <outline title="Ryan Chapman" text="Ryan Chapman" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC6FO-Up1-oLj5nNivCNHL-Q" htmlUrl="https://www.youtube.com/channel/UC6FO-Up1-oLj5nNivCNHL-Q" type="rss"/>
             <outline title="Weird History Food" text="Weird History Food" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCNaq5Jh4SQ1oBAjhQ0KPhoA" htmlUrl="https://www.youtube.com/channel/UCNaq5Jh4SQ1oBAjhQ0KPhoA" type="rss"/>
@@ -99,6 +106,8 @@
         </outline>
         <outline text="KidsEducation">
             <outline title="Bizarre Beasts" text="Bizarre Beasts" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC9Lp_AA5M2cMGrlvnnIns-g" htmlUrl="https://www.youtube.com/channel/UC9Lp_AA5M2cMGrlvnnIns-g" type="rss"/>
+            <outline title="Elise Ecklund" text="Elise Ecklund" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCUsCq3Hq5haa6tTph41hpJQ" htmlUrl="https://www.youtube.com/channel/UCUsCq3Hq5haa6tTph41hpJQ" type="rss"/>
+            <outline title="MarkRober" text="MarkRober" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCY1kMZp36IQSyNx_9h4mpCg" htmlUrl="https://www.youtube.com/channel/UCY1kMZp36IQSyNx_9h4mpCg" type="rss"/>
             <outline title="Math Queen" text="Math Queen" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCJG3WmULyY_bZftxF00mXsA" htmlUrl="https://www.youtube.com/channel/UCJG3WmULyY_bZftxF00mXsA" type="rss"/>
             <outline title="Math Songs by NUMBEROCK" text="Math Songs by NUMBEROCK" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCt9SZgFExNwWTH5T_JnyF-A" htmlUrl="https://www.youtube.com/channel/UCt9SZgFExNwWTH5T_JnyF-A" type="rss"/>
             <outline title="NileRed" text="NileRed" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCFhXFikryT4aFcLkLw2LBLA" htmlUrl="https://www.youtube.com/channel/UCFhXFikryT4aFcLkLw2LBLA" type="rss"/>
@@ -116,7 +125,6 @@
             <outline title="cs.CY updates on arXiv.org" text="cs.CY updates on arXiv.org" xmlUrl="https://rss.arxiv.org/rss/cs.CY" htmlUrl="http://rss.arxiv.org/rss/cs.CY" type="rss"/>
             <outline title="Dennis Davis" text="Dennis Davis" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCflg8pIElTb9qdFVaDC7gMQ" htmlUrl="https://www.youtube.com/channel/UCflg8pIElTb9qdFVaDC7gMQ" type="rss"/>
             <outline title="https://blogs.ams.org/matheducation" text="https://blogs.ams.org/matheducation" xmlUrl="https://blogs.ams.org/matheducation/feed/" htmlUrl="https://blogs.ams.org/matheducation" type="rss"/>
-            <outline title="MarkRober" text="MarkRober" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCY1kMZp36IQSyNx_9h4mpCg" htmlUrl="https://www.youtube.com/channel/UCY1kMZp36IQSyNx_9h4mpCg" type="rss"/>
             <outline title="Numberphile" text="Numberphile" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCoxcjq-8xIDTYp3uz647V5A" htmlUrl="https://www.youtube.com/channel/UCoxcjq-8xIDTYp3uz647V5A" type="rss"/>
             <outline title="ProgrammersArePeople" text="ProgrammersArePeople" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCi8C7TNs2ohrc6hnRQ5Sn2w" htmlUrl="https://www.youtube.com/channel/UCi8C7TNs2ohrc6hnRQ5Sn2w" type="rss"/>
             <outline title="Socratica" text="Socratica" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCW6TXMZ5Pq6yL6_k5NZ2e0Q" htmlUrl="https://www.youtube.com/channel/UCW6TXMZ5Pq6yL6_k5NZ2e0Q" type="rss"/>
@@ -134,19 +142,20 @@
             <outline title="Dave Moffatt Music" text="Dave Moffatt Music" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCH5_tK270WTckdJVyNQ3heA" htmlUrl="https://www.youtube.com/channel/UCH5_tK270WTckdJVyNQ3heA" type="rss"/>
             <outline title="Dennis Martensson" text="Dennis Martensson" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCUX4AEiXsi6PHJ7Lu3VfHJg" htmlUrl="https://www.youtube.com/channel/UCUX4AEiXsi6PHJ7Lu3VfHJg" type="rss"/>
             <outline title="Djs From Mars" text="Djs From Mars" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCKFTka-4aYpo2H_WTcDCoJg" htmlUrl="https://www.youtube.com/channel/UCKFTka-4aYpo2H_WTcDCoJg" type="rss"/>
-            <outline title="Elise Ecklund" text="Elise Ecklund" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCUsCq3Hq5haa6tTph41hpJQ" htmlUrl="https://www.youtube.com/channel/UCUsCq3Hq5haa6tTph41hpJQ" type="rss"/>
             <outline title="First To Eleven" text="First To Eleven" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCcE10s4MFy4eed7q7QkonZg" htmlUrl="https://www.youtube.com/channel/UCcE10s4MFy4eed7q7QkonZg" type="rss"/>
             <outline title="Flynt Flossy &amp; Turquoise Jeep" text="Flynt Flossy &amp; Turquoise Jeep" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCvpCSlbQDKQVvGLjzWLPwBw" htmlUrl="https://www.youtube.com/channel/UCvpCSlbQDKQVvGLjzWLPwBw" type="rss"/>
             <outline title="FroggyFreshRap" text="FroggyFreshRap" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC77bLHly_nVZJzL-nXSO2XQ" htmlUrl="https://www.youtube.com/channel/UC77bLHly_nVZJzL-nXSO2XQ" type="rss"/>
             <outline title="GabzitoMusic" text="GabzitoMusic" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC7w5bbMMU68BW0B9R_GVhVg" htmlUrl="https://www.youtube.com/channel/UC7w5bbMMU68BW0B9R_GVhVg" type="rss"/>
+            <outline title="Gamazda" text="Gamazda" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCKscaP2HvovgMjkpY6KwfJQ" htmlUrl="https://www.youtube.com/channel/UCKscaP2HvovgMjkpY6KwfJQ" type="rss"/>
             <outline title="Green Day" text="Green Day" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCqC_GY2ZiENFz2pwL0cSfAw" htmlUrl="https://www.youtube.com/channel/UCqC_GY2ZiENFz2pwL0cSfAw" type="rss"/>
             <outline title="J-MUSIC Ensemble" text="J-MUSIC Ensemble" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCp961nPXSI1Wp-WkE2sRaQw" htmlUrl="https://www.youtube.com/channel/UCp961nPXSI1Wp-WkE2sRaQw" type="rss"/>
             <outline title="Kirora Borealis" text="Kirora Borealis" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCaThYZdEU9Z0VxIv4836p9A" htmlUrl="https://www.youtube.com/channel/UCaThYZdEU9Z0VxIv4836p9A" type="rss"/>
             <outline title="LewisCapaldi" text="LewisCapaldi" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCveFkLdSOUsGwMJEgedO9dQ" htmlUrl="https://www.youtube.com/channel/UCveFkLdSOUsGwMJEgedO9dQ" type="rss"/>
             <outline title="Lucas Brar" text="Lucas Brar" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCwlnFJ4_SlJbVNQ0iye8CqQ" htmlUrl="https://www.youtube.com/channel/UCwlnFJ4_SlJbVNQ0iye8CqQ" type="rss"/>
             <outline title="Lynsey Hogan" text="Lynsey Hogan" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCejVpfSY5zkaHF1FCqtT9ag" htmlUrl="https://www.youtube.com/channel/UCejVpfSY5zkaHF1FCqtT9ag" type="rss"/>
+            <outline title="mac glocky" text="mac glocky" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCNZyDuFGJluHLNnZx8M07eg" htmlUrl="https://www.youtube.com/channel/UCNZyDuFGJluHLNnZx8M07eg" type="rss"/>
             <outline title="Margarita Sipatova" text="Margarita Sipatova" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC1HepUmjIy6v9twm4bfDs2w" htmlUrl="https://www.youtube.com/channel/UC1HepUmjIy6v9twm4bfDs2w" type="rss"/>
-            <outline title="Musora" text="Musora" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCP1ZfPYU0cjhXXnuxlLVhqQ" htmlUrl="https://www.youtube.com/channel/UCP1ZfPYU0cjhXXnuxlLVhqQ" type="rss"/>
+            <outline title="Moonic Productions" text="Moonic Productions" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCPq0Bal3CrExpUGOp4fInKw" htmlUrl="https://www.youtube.com/channel/UCPq0Bal3CrExpUGOp4fInKw" type="rss"/>
             <outline title="Nestalgica" text="Nestalgica" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCGAGmGq3H8eb8pYpPYhuxCQ" htmlUrl="https://www.youtube.com/channel/UCGAGmGq3H8eb8pYpPYhuxCQ" type="rss"/>
             <outline title="NinjaSexParty" text="NinjaSexParty" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCs7yDP7KWrh0wd_4qbDP32g" htmlUrl="https://www.youtube.com/channel/UCs7yDP7KWrh0wd_4qbDP32g" type="rss"/>
             <outline title="NPR Topics: Music News" text="NPR Topics: Music News" xmlUrl="https://feeds.npr.org/1106/rss.xml" htmlUrl="https://www.npr.org/templates/story/story.php?storyId=1106" description="Current music news, artist interviews, album reviews, and music industry news from NPR Music." type="rss"/>
@@ -167,23 +176,22 @@
             <outline title="BBC News - Science And Environment" text="BBC News - Science And Environment" xmlUrl="http://feeds.bbci.co.uk/news/science_and_environment/rss.xml" htmlUrl="https://www.bbc.co.uk/news/science_and_environment" description="BBC News - Science &amp; Environment" type="rss"/>
             <outline title="BBC News - Technology" text="BBC News - Technology" xmlUrl="https://feeds.bbci.co.uk/news/technology/rss.xml" htmlUrl="https://www.bbc.co.uk/news/technology" description="BBC News - Technology" type="rss"/>
             <outline title="BBC News - US and Canada" text="BBC News - US and Canada" xmlUrl="https://feeds.bbci.co.uk/news/world/us_and_canada/rss.xml" htmlUrl="https://www.bbc.co.uk/news/world/us_and_canada" type="rss"/>
-            <outline title="NPR Topics: Business" text="NPR Topics: Business" xmlUrl="https://feeds.npr.org/1006/rss.xml" htmlUrl="https://www.npr.org/templates/story/story.php?storyId=1006" description="Find the latest business news with reports on Wall Street, interest rates, banking, companies, and U.S. and world financial markets. Subscribe to the Business Story of the Day podcast." type="rss"/>
-            <outline title="NPR Topics: Education" text="NPR Topics: Education" xmlUrl="https://feeds.npr.org/1013/rss.xml" htmlUrl="https://www.npr.org/templates/story/story.php?storyId=1013" description="We've been to school. We know how education works. Right? In fact, many aspects of learning — in homes, at schools, at work and elsewhere — are evolving rapidly, along with our understanding of learning. Join us as we explore how learning happens." type="rss"/>
         </outline>
         <outline text="NewsMilitary">
             <outline title="Sandbox" text="Sandbox" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCNPMEL4N_kfEC-w2A6CuPGg" htmlUrl="https://www.youtube.com/channel/UCNPMEL4N_kfEC-w2A6CuPGg" type="rss"/>
             <outline title="TaskAndPurpose" text="TaskAndPurpose" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCSq3p5NKEtyp5Rjd4ctiEbg" htmlUrl="https://www.youtube.com/channel/UCSq3p5NKEtyp5Rjd4ctiEbg" type="rss"/>
         </outline>
         <outline text="NewsNPR">
+            <outline title="NPR Topics: Business" text="NPR Topics: Business" xmlUrl="https://feeds.npr.org/1006/rss.xml" htmlUrl="https://www.npr.org/templates/story/story.php?storyId=1006" description="Find the latest business news with reports on Wall Street, interest rates, banking, companies, and U.S. and world financial markets. Subscribe to the Business Story of the Day podcast." type="rss"/>
+            <outline title="NPR Topics: Education" text="NPR Topics: Education" xmlUrl="https://feeds.npr.org/1013/rss.xml" htmlUrl="https://www.npr.org/templates/story/story.php?storyId=1013" description="We've been to school. We know how education works. Right? In fact, many aspects of learning — in homes, at schools, at work and elsewhere — are evolving rapidly, along with our understanding of learning. Join us as we explore how learning happens." type="rss"/>
             <outline title="NPR Topics: Family" text="NPR Topics: Family" xmlUrl="https://feeds.npr.org/1164/rss.xml" htmlUrl="https://www.npr.org/templates/story/story.php?storyId=1164" type="rss"/>
+            <outline title="NPR Topics: History" text="NPR Topics: History" xmlUrl="https://feeds.npr.org/1136/rss.xml" htmlUrl="https://www.npr.org/templates/story/story.php?storyId=1136" type="rss"/>
             <outline title="NPR Topics: Home Page Top Stories" text="NPR Topics: Home Page Top Stories" xmlUrl="https://feeds.npr.org/1002/rss.xml" htmlUrl="https://www.npr.org/templates/story/story.php?storyId=1002" type="rss"/>
             <outline title="NPR Topics: Medical Treatments" text="NPR Topics: Medical Treatments" xmlUrl="https://feeds.npr.org/1135/rss.xml" htmlUrl="https://www.npr.org/templates/story/story.php?storyId=1135" type="rss"/>
-            <outline title="NPR Topics: News" text="NPR Topics: News" xmlUrl="https://feeds.npr.org/1001/rss.xml" htmlUrl="https://www.npr.org/templates/story/story.php?storyId=1001" type="rss"/>
             <outline title="NPR Topics: Opinion" text="NPR Topics: Opinion" xmlUrl="https://feeds.npr.org/1057/rss.xml" htmlUrl="https://www.npr.org/templates/story/story.php?storyId=1057" type="rss"/>
             <outline title="NPR: Story of the Day" text="NPR: Story of the Day" xmlUrl="https://feeds.npr.org/1090/rss.xml" htmlUrl="https://www.npr.org/templates/story/story.php?storyId=1090" type="rss"/>
         </outline>
         <outline text="NewsTech">
-            <outline title="Arch Linux: Recent news updates" text="Arch Linux: Recent news updates" xmlUrl="https://archlinux.org/feeds/news/" htmlUrl="https://archlinux.org/news/" type="rss"/>
             <outline title="Hacker News: Front Page" text="Hacker News: Front Page" xmlUrl="https://hnrss.org/frontpage" htmlUrl="https://news.ycombinator.com/" type="rss"/>
             <outline title="Hacker News: Jobs" text="Hacker News: Jobs" xmlUrl="https://hnrss.org/jobs" htmlUrl="https://news.ycombinator.com/jobs" description="Hacker News RSS" type="rss"/>
             <outline title="Slashdot" text="Slashdot" xmlUrl="http://rss.slashdot.org/Slashdot/slashdotMain" htmlUrl="https://slashdot.org/" type="rss"/>
@@ -197,9 +205,7 @@
             <outline title="Broski" text="Broski" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCtPouPVprzqlabJkV85L7Ow" htmlUrl="https://www.youtube.com/channel/UCtPouPVprzqlabJkV85L7Ow" type="rss"/>
             <outline title="Diaphone" text="Diaphone" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC-YRLnasKadUG33nyWL4pTA" htmlUrl="https://www.youtube.com/channel/UC-YRLnasKadUG33nyWL4pTA" type="rss"/>
             <outline title="JulieHeckman" text="JulieHeckman" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCLX9HNzy81INY7_XwpYrWwQ" htmlUrl="https://www.youtube.com/channel/UCLX9HNzy81INY7_XwpYrWwQ" type="rss"/>
-            <outline title="LoadingReadyRun" text="LoadingReadyRun" xmlUrl="https://feeds.feedburner.com/Loadingreadyrun" htmlUrl="https://www.loadingreadyrun.com" type="rss"/>
             <outline title="MuscleNoob" text="MuscleNoob" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC3bSbmoIXXp5Ba1UXGa6ytw" htmlUrl="https://www.youtube.com/channel/UC3bSbmoIXXp5Ba1UXGa6ytw" type="rss"/>
-            <outline title="Punkdagod" text="Punkdagod" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC-hcGU10e046ZGuR435Pqiw" htmlUrl="https://www.youtube.com/channel/UC-hcGU10e046ZGuR435Pqiw" type="rss"/>
             <outline title="RagerDemon" text="RagerDemon" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCwaCeAp18GcDnITLteiGe-w" htmlUrl="https://www.youtube.com/channel/UCwaCeAp18GcDnITLteiGe-w" type="rss"/>
             <outline title="Stream Team Battle VODs" text="Stream Team Battle VODs" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCN0EgFV3r4TMdWLHGKQwL5A" htmlUrl="https://www.youtube.com/channel/UCN0EgFV3r4TMdWLHGKQwL5A" type="rss"/>
         </outline>
