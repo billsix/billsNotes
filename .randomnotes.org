@@ -32,7 +32,9 @@ build: ## Build a Podman image
 .PHONY: help
 help:
         @grep --extended-regexp '^[a-zA-Z0-9_-]+:.*?## .*$$' $(MAKEFILE_LIST) | sort | awk 'BEGIN {FS = ":.*?## "}; {printf "\033[36m%-30s\033[0m %s\n", $$1, $$2}'
-
+* Rsync
+** push
+rsync -avz --progress src dest
 * Best game of chess I ever played, against Jay
 
 [Event "?"]
