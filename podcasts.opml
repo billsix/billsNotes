@@ -2,31 +2,41 @@
 <opml version="2.0">
   <head>
     <title>AntennaPod Subscriptions</title>
-    <dateCreated>02 Oct 25 21:34:24 -0400</dateCreated>
+    <dateCreated>02 Nov 25 11:40:28 -0500</dateCreated>
   </head>
   <body>
     <outline text="1A" title="1A" type="rss" xmlUrl="https://feeds.npr.org/510316/podcast.xml" htmlUrl="https://www.npr.org/podcasts/510316/1a"/>
+    <outline text="6 Minute English" title="6 Minute English" type="rss" xmlUrl="https://podcasts.files.bbci.co.uk/p02pc9tn.rss" htmlUrl="http://www.bbc.co.uk/programmes/p02pc9tn"/>
     <outline text="After Party with Emily Jashinsky" title="After Party with Emily Jashinsky" type="rss" xmlUrl="https://feeds.simplecast.com/SBwa8H9v" htmlUrl="https://www.siriusxm.com"/>
+    <outline text="Americast" title="Americast" type="rss" xmlUrl="https://podcasts.files.bbci.co.uk/p07h19zz.rss" htmlUrl="http://www.bbc.co.uk/programmes/p07h19zz"/>
     <outline text="Andrew Schulz's Flagrant with Akaash Singh" title="Andrew Schulz's Flagrant with Akaash Singh" type="rss" xmlUrl="https://feeds.megaphone.fm/APPI6857213837" htmlUrl="https://soundcloud.com/flagrantpodcast"/>
     <outline text="Breaking Points with Krystal and Saagar" title="Breaking Points with Krystal and Saagar" type="rss" xmlUrl="https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/e7fd5ae7-7621-4e41-9b85-b0ab0164b634/4c1a5135-4197-47c9-b19b-b0ab0164b667/podcast.rss" htmlUrl="https://www.iheart.com/podcast/867-breaking-points-with-kryst-83441143/"/>
     <outline text="Coaching Corner" title="Coaching Corner" type="rss" xmlUrl="https://feeds.captivate.fm/jaydigains-coaching-corner/" htmlUrl="https://jaydharrisonfitness.com/podcast"/>
     <outline text="Consider This from NPR" title="Consider This from NPR" type="rss" xmlUrl="https://feeds.npr.org/510355/podcast.xml" htmlUrl="https://www.npr.org/podcasts/510355/considerthis"/>
     <outline text="Craig Groeschel Leadership Podcast" title="Craig Groeschel Leadership Podcast" type="rss" xmlUrl="https://feeds.simplecast.com/atgtihd0" htmlUrl="https://www.life.church/leadershippodcast"/>
     <outline text="Dumpster Fire with Bridget Phetasy" title="Dumpster Fire with Bridget Phetasy" type="rss" xmlUrl="https://feeds.buzzsprout.com/2497884.rss" htmlUrl="https://www.phetasy.com/s/dumpster-fire-podcast"/>
+    <outline text="Gardeners' Corner" title="Gardeners' Corner" type="rss" xmlUrl="https://podcasts.files.bbci.co.uk/b007b5wg.rss" htmlUrl="http://www.bbc.co.uk/programmes/b007b5wg"/>
+    <outline text="Global News Podcast" title="Global News Podcast" type="rss" xmlUrl="https://podcasts.files.bbci.co.uk/p02nq0gn.rss" htmlUrl="http://www.bbc.co.uk/programmes/p02nq0gn"/>
+    <outline text="In Our Time" title="In Our Time" type="rss" xmlUrl="https://podcasts.files.bbci.co.uk/b006qykl.rss" htmlUrl="http://www.bbc.co.uk/programmes/b006qykl"/>
     <outline text="It's Been a Minute" title="It's Been a Minute" type="rss" xmlUrl="https://feeds.npr.org/510317/podcast.xml" htmlUrl="https://www.npr.org/podcasts/510317/its-been-a-minute"/>
-    <outline text="It’s All Your Fault: High Conflict People" title="It’s All Your Fault: High Conflict People" type="rss" xmlUrl="https://feeds.transistor.fm/itsallyourfault" htmlUrl="https://trustory.fm/its-all-your-fault"/>
     <outline text="Lex Fridman Podcast" title="Lex Fridman Podcast" type="rss" xmlUrl="https://lexfridman.com/feed/podcast/" htmlUrl="https://lexfridman.com/"/>
     <outline text="Life Kit" title="Life Kit" type="rss" xmlUrl="https://feeds.npr.org/510338/podcast.xml" htmlUrl="https://www.npr.org/podcasts/510338/all-guides"/>
+    <outline text="More or Less" title="More or Less" type="rss" xmlUrl="https://podcasts.files.bbci.co.uk/p02nrss1.rss" htmlUrl="http://www.bbc.co.uk/programmes/p02nrss1"/>
+    <outline text="Newshour" title="Newshour" type="rss" xmlUrl="https://podcasts.files.bbci.co.uk/p002vsnk.rss" htmlUrl="http://www.bbc.co.uk/programmes/p002vsnk"/>
     <outline text="Planet Money" title="Planet Money" type="rss" xmlUrl="https://feeds.npr.org/510289/podcast.xml" htmlUrl="https://www.npr.org/podcasts/510289/planet-money"/>
     <outline text="Short Wave" title="Short Wave" type="rss" xmlUrl="https://feeds.npr.org/510351/podcast.xml" htmlUrl="https://www.npr.org/podcasts/510351/short-wave"/>
     <outline text="TED Radio Hour" title="TED Radio Hour" type="rss" xmlUrl="https://feeds.npr.org/510298/podcast.xml" htmlUrl="https://www.npr.org/podcasts/510298/ted-radio-hour"/>
+    <outline text="Test Match Special" title="Test Match Special" type="rss" xmlUrl="https://podcasts.files.bbci.co.uk/p02nrsl2.rss" htmlUrl="http://www.bbc.co.uk/programmes/p02nrsl2"/>
     <outline text="The Brett Cooper Show" title="The Brett Cooper Show" type="rss" xmlUrl="https://feeds.megaphone.fm/RSV6952153075" htmlUrl="https://podcasters.spotify.com/pod/show/brett-cooper18"/>
+    <outline text="The Documentary Podcast" title="The Documentary Podcast" type="rss" xmlUrl="https://podcasts.files.bbci.co.uk/p02nq0lx.rss" htmlUrl="http://www.bbc.co.uk/programmes/p02nq0lx"/>
     <outline text="The Joe Rogan Experience" title="The Joe Rogan Experience" type="rss" xmlUrl="https://feeds.megaphone.fm/GLT1412515089"/>
     <outline text="The Jordan B. Peterson Podcast" title="The Jordan B. Peterson Podcast" type="rss" xmlUrl="https://feeds.megaphone.fm/BVDWV6444647327" htmlUrl="https://www.jordanbpeterson.com"/>
+    <outline text="The Orgasm Cult" title="The Orgasm Cult" type="rss" xmlUrl="https://podcasts.files.bbci.co.uk/p08xzk5h.rss" htmlUrl="http://www.bbc.co.uk/programmes/p08xzk5h"/>
     <outline text="TRIGGERnometry" title="TRIGGERnometry" type="rss" xmlUrl="https://feeds.megaphone.fm/AALT9618167458" htmlUrl="https://triggernometry.substack.com/"/>
     <outline text="Undercurrents" title="Undercurrents" type="rss" xmlUrl="https://feeds.acast.com/public/shows/66a213f122781665a98b6e29" htmlUrl="https://shows.acast.com/undercurrents"/>
     <outline text="Up First from NPR" title="Up First from NPR" type="rss" xmlUrl="https://feeds.npr.org/510318/podcast.xml" htmlUrl="https://www.npr.org/podcasts/510318/up-first"/>
     <outline text="Wait Wait... Don't Tell Me!" title="Wait Wait... Don't Tell Me!" type="rss" xmlUrl="https://feeds.npr.org/344098539/podcast.xml" htmlUrl="https://www.npr.org/podcasts/344098539/wait-wait-don-t-tell-me"/>
     <outline text="Wild Card with Rachel Martin" title="Wild Card with Rachel Martin" type="rss" xmlUrl="https://feeds.npr.org/510379/podcast.xml" htmlUrl="https://www.npr.org/podcasts/510379/wild-card-with-rachel-martin"/>
+    <outline text="World of Secrets" title="World of Secrets" type="rss" xmlUrl="https://podcasts.files.bbci.co.uk/w13xtvs0.rss" htmlUrl="http://www.bbc.co.uk/programmes/w13xtvs0"/>
   </body>
 </opml>
