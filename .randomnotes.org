@@ -35,6 +35,15 @@ help:
 * Rsync
 ** push
 rsync -avz --progress src dest
+* ssh
+
+This allows the user to enter their password once.  Useful on headless systems
+
+# Start the ssh-agent and set environment variables
+eval $(ssh-agent)
+
+# Add your SSH key (it will prompt for your passphrase once)
+ssh-add ~/.ssh/id_rsa
 * Best game of chess I ever played, against Jay
 
 [Event "?"]
