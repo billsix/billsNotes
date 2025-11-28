@@ -2,7 +2,7 @@
 <opml version="2.0">
     <head>
         <title>Miniflux</title>
-        <dateCreated>Sun, 02 Nov 2025 16:43:43 UTC</dateCreated>
+        <dateCreated>Fri, 28 Nov 2025 14:59:03 UTC</dateCreated>
     </head>
     <body>
         <outline text="AAFriends">
@@ -72,8 +72,6 @@
             <outline title="BlenderNation" text="BlenderNation" xmlUrl="https://www.blendernation.com/feed/" htmlUrl="https://www.blendernation.com" type="rss"/>
             <outline title="Content Creation / Rendering – NVIDIA Technical Blog" text="Content Creation / Rendering – NVIDIA Technical Blog" xmlUrl="https://developer.nvidia.com/blog/category/graphics/feed/" htmlUrl="https://developer.nvidia.com/blog" type="rss"/>
             <outline title="Metal by Example" text="Metal by Example" xmlUrl="https://metalbyexample.com/feed/" htmlUrl="https://metalbyexample.com" type="rss"/>
-            <outline title="newest submissions : opengl" text="newest submissions : opengl" xmlUrl="https://www.reddit.com/r/OpenGL/new.rss" htmlUrl="https://www.reddit.com/r/OpenGL/new" type="rss"/>
-            <outline title="newest submissions : vulkan" text="newest submissions : vulkan" xmlUrl="https://www.reddit.com/r/vulkan/new.rss" htmlUrl="https://www.reddit.com/r/vulkan/new" type="rss"/>
             <outline title="News" text="News" xmlUrl="https://www.khronos.org/feeds/news_feed" htmlUrl="http://www.khronos.org" type="rss"/>
             <outline title="Nobody Famous" text="Nobody Famous" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC9f635xKNNvvPIo2NMIKhVw" htmlUrl="https://www.youtube.com/channel/UC9f635xKNNvvPIo2NMIKhVw" type="rss"/>
             <outline title="NVIDIA Technical Blog" text="NVIDIA Technical Blog" xmlUrl="https://developer.nvidia.com/blog/feed/" htmlUrl="https://developer.nvidia.com/blog" type="rss"/>
@@ -127,7 +125,7 @@
             <outline title="Computerphile" text="Computerphile" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC9-y-6csu5WGm29I7JiwpnA" htmlUrl="https://www.youtube.com/channel/UC9-y-6csu5WGm29I7JiwpnA" type="rss"/>
             <outline title="Dennis Davis" text="Dennis Davis" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCflg8pIElTb9qdFVaDC7gMQ" htmlUrl="https://www.youtube.com/channel/UCflg8pIElTb9qdFVaDC7gMQ" type="rss"/>
             <outline title="FloatHeadPhysics" text="FloatHeadPhysics" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCGfFUc6eWxfbtjYeun6r9xg" htmlUrl="https://www.youtube.com/channel/UCGfFUc6eWxfbtjYeun6r9xg" type="rss"/>
-            <outline title="https://blogs.ams.org/matheducation" text="https://blogs.ams.org/matheducation" xmlUrl="https://blogs.ams.org/matheducation/feed/" htmlUrl="https://blogs.ams.org/matheducation" type="rss"/>
+            <outline title="LaurieWired" text="LaurieWired" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCJXa3_WNNmIpewOtCHf3B0g" htmlUrl="https://www.youtube.com/channel/UCJXa3_WNNmIpewOtCHf3B0g" type="rss"/>
             <outline title="Learn Linux TV" text="Learn Linux TV" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCxQKHvKbmSzGMvUrVtJYnUA" htmlUrl="https://www.youtube.com/channel/UCxQKHvKbmSzGMvUrVtJYnUA" type="rss"/>
             <outline title="Looking Glass Universe" text="Looking Glass Universe" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCFk__1iexL3T5gvGcMpeHNA" htmlUrl="https://www.youtube.com/channel/UCFk__1iexL3T5gvGcMpeHNA" type="rss"/>
             <outline title="NancyPi" text="NancyPi" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCRGXV1QlxZ8aucmE45tRx8w" htmlUrl="https://www.youtube.com/channel/UCRGXV1QlxZ8aucmE45tRx8w" type="rss"/>
@@ -138,7 +136,6 @@
             <outline title="Sudgylacmoe" text="Sudgylacmoe" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCEo_JfTH_9FK-7k9-mAWJkQ" htmlUrl="https://www.youtube.com/channel/UCEo_JfTH_9FK-7k9-mAWJkQ" type="rss"/>
             <outline title="TechButMakeItReal" text="TechButMakeItReal" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC98uYFd5PZbtYenQfrjq7oA" htmlUrl="https://www.youtube.com/channel/UC98uYFd5PZbtYenQfrjq7oA" type="rss"/>
             <outline title="TrevorBassett" text="TrevorBassett" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC9rTsvTxJnx1DNrDA3Rqa6A" htmlUrl="https://www.youtube.com/channel/UC9rTsvTxJnx1DNrDA3Rqa6A" type="rss"/>
-            <outline title="Vicky Mei" text="Vicky Mei" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCwgd522gHZ6PCCsCP5k_VXw" htmlUrl="https://www.youtube.com/channel/UCwgd522gHZ6PCCsCP5k_VXw" type="rss"/>
             <outline title="Will Assad" text="Will Assad" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCX4QtKIp00r3ILeGuiYRxqw" htmlUrl="https://www.youtube.com/channel/UCX4QtKIp00r3ILeGuiYRxqw" type="rss"/>
         </outline>
         <outline text="Music">
@@ -184,6 +181,8 @@
         </outline>
         <outline text="Reddit">
             <outline title="newest submissions : blenderTutorials" text="newest submissions : blenderTutorials" xmlUrl="https://www.reddit.com/r/blenderTutorials/new.rss" htmlUrl="https://www.reddit.com/r/blenderTutorials/new" type="rss"/>
+            <outline title="newest submissions : opengl" text="newest submissions : opengl" xmlUrl="https://www.reddit.com/r/OpenGL/new.rss" htmlUrl="https://www.reddit.com/r/OpenGL/new" type="rss"/>
+            <outline title="newest submissions : vulkan" text="newest submissions : vulkan" xmlUrl="https://www.reddit.com/r/vulkan/new.rss" htmlUrl="https://www.reddit.com/r/vulkan/new" type="rss"/>
         </outline>
         <outline text="Theater">
             <outline title="NPR Topics: Theater" text="NPR Topics: Theater" xmlUrl="https://feeds.npr.org/1144/rss.xml" htmlUrl="https://www.npr.org/templates/story/story.php?storyId=1144" description="Theater" type="rss"/>
