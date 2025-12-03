@@ -2,7 +2,7 @@
 <opml version="2.0">
     <head>
         <title>Miniflux</title>
-        <dateCreated>Wed, 03 Dec 2025 00:44:07 UTC</dateCreated>
+        <dateCreated>Wed, 03 Dec 2025 01:13:26 UTC</dateCreated>
     </head>
     <body>
         <outline text="AAFriends">
@@ -48,6 +48,7 @@
             <outline title="Bongino Report Welcome" text="Bongino Report Welcome" xmlUrl="https://bonginoreport.com/index.rss" htmlUrl="https://bonginoreport.com/index.rss" type="rss"/>
             <outline title="Channel 5 with Andrew Callaghan" text="Channel 5 with Andrew Callaghan" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC-AQKm7HUNMmxjdS371MSwg" htmlUrl="https://www.youtube.com/channel/UC-AQKm7HUNMmxjdS371MSwg" type="rss"/>
             <outline title="Crowder Bits" text="Crowder Bits" xmlUrl="http://192.168.0.186:8090/?link=https://rumble.com/c/CrowderBits" htmlUrl="https://rumble.com/c/CrowderBits" type="rss"/>
+            <outline title="Jasmin Laine" text="Jasmin Laine" xmlUrl="http://192.168.0.186:8090/?link=https://rumble.com/c/JasminLaine" htmlUrl="https://rumble.com/c/JasminLaine" type="rss"/>
             <outline title="Jennifer Moleski" text="Jennifer Moleski" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCt44YmXupeOjW8J02aEz77w" htmlUrl="https://www.youtube.com/channel/UCt44YmXupeOjW8J02aEz77w" type="rss"/>
             <outline title="karen straughan" text="karen straughan" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCcmnLu5cGUGeLy744WS-fsg" htmlUrl="https://www.youtube.com/channel/UCcmnLu5cGUGeLy744WS-fsg" type="rss"/>
             <outline title="Katie Miller Pod" text="Katie Miller Pod" xmlUrl="http://192.168.0.186:8090/?link=https://rumble.com/c/KatieMillerPod" htmlUrl="https://rumble.com/c/KatieMillerPod" type="rss"/>
@@ -56,6 +57,9 @@
             <outline title="Prime Time with Alex Stein" text="Prime Time with Alex Stein" xmlUrl="http://192.168.0.186:8090/?link=https://rumble.com/c/AlexStein99" htmlUrl="https://rumble.com/c/AlexStein99" type="rss"/>
             <outline title="Psychology with Dr. Ana" text="Psychology with Dr. Ana" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCOxhlNofmYH-MRC36TURUGw" htmlUrl="https://www.youtube.com/channel/UCOxhlNofmYH-MRC36TURUGw" type="rss"/>
             <outline title="Sh0eOnHead" text="Sh0eOnHead" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC0aanx5rpr7D1M7KCFYzrLQ" htmlUrl="https://www.youtube.com/channel/UC0aanx5rpr7D1M7KCFYzrLQ" type="rss"/>
+            <outline title="The Bold Lib" text="The Bold Lib" xmlUrl="http://192.168.0.186:8090/?link=https://rumble.com/c/TheBoldLib" htmlUrl="https://rumble.com/c/TheBoldLib" type="rss"/>
+            <outline title="The Culture War with Tim Pool" text="The Culture War with Tim Pool" xmlUrl="http://192.168.0.186:8090/?link=https://rumble.com/c/TheCultureWar" htmlUrl="https://rumble.com/c/TheCultureWar" type="rss"/>
+            <outline title="The Quartering" text="The Quartering" xmlUrl="http://192.168.0.186:8090/?link=https://rumble.com/c/TheQuartering" htmlUrl="https://rumble.com/c/TheQuartering" type="rss"/>
             <outline title="Timcast" text="Timcast" xmlUrl="http://192.168.0.186:8090/?link=https://rumble.com/c/Timcast" htmlUrl="https://rumble.com/c/Timcast" type="rss"/>
             <outline title="WarrenSmith" text="WarrenSmith" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCVnBaemGSz05OUyKmQjIJSA" htmlUrl="https://www.youtube.com/channel/UCVnBaemGSz05OUyKmQjIJSA" type="rss"/>
         </outline>
@@ -92,6 +96,7 @@
         <outline text="Interesting">
             <outline title="It’s All Your Fault: High Conflict People" text="It’s All Your Fault: High Conflict People" xmlUrl="https://feeds.transistor.fm/itsallyourfault" htmlUrl="https://trustory.fm/its-all-your-fault" type="rss"/>
             <outline title="LanguageJones" text="LanguageJones" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCVwfqPkv08OTuHzkPU3EaDw" htmlUrl="https://www.youtube.com/channel/UCVwfqPkv08OTuHzkPU3EaDw" type="rss"/>
+            <outline title="megimu32" text="megimu32" xmlUrl="http://192.168.0.186:8090/?link=https://rumble.com/c/megimu32" htmlUrl="https://rumble.com/c/megimu32" type="rss"/>
             <outline title="Rationality Rules" text="Rationality Rules" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCqZMgLgGlYAWvSU8lZ9xiVg" htmlUrl="https://www.youtube.com/channel/UCqZMgLgGlYAWvSU8lZ9xiVg" type="rss"/>
             <outline title="SmarterEveryDay" text="SmarterEveryDay" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC6107grRI4m0o2-emgoDnAA" htmlUrl="https://www.youtube.com/channel/UC6107grRI4m0o2-emgoDnAA" type="rss"/>
             <outline title="The Fat Electrician" text="The Fat Electrician" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC_T3Zsw2257Ke-g3F20ZCRA" htmlUrl="https://www.youtube.com/channel/UC_T3Zsw2257Ke-g3F20ZCRA" type="rss"/>
