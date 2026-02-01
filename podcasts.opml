@@ -2,28 +2,38 @@
 <opml version="2.0">
   <head>
     <title>AntennaPod Subscriptions</title>
-    <dateCreated>02 Dec 25 20:14:50 -0500</dateCreated>
+    <dateCreated>31 Jan 26 19:05:44 -0500</dateCreated>
   </head>
   <body>
-    <outline text="After Party with Emily Jashinsky" title="After Party with Emily Jashinsky" type="rss" xmlUrl="https://feeds.simplecast.com/SBwa8H9v" htmlUrl="https://www.siriusxm.com"/>
     <outline text="America This Week" title="America This Week" type="rss" xmlUrl="https://api.substack.com/feed/podcast/1042/s/24549.rss" htmlUrl="https://www.racket.news/s/america-this-week"/>
-    <outline text="Americast" title="Americast" type="rss" xmlUrl="https://podcasts.files.bbci.co.uk/p07h19zz.rss" htmlUrl="http://www.bbc.co.uk/programmes/p07h19zz"/>
     <outline text="Coaching Corner" title="Coaching Corner" type="rss" xmlUrl="https://feeds.captivate.fm/jaydigains-coaching-corner/" htmlUrl="https://jaydharrisonfitness.com/podcast"/>
     <outline text="Craig Groeschel Leadership Podcast" title="Craig Groeschel Leadership Podcast" type="rss" xmlUrl="https://feeds.simplecast.com/atgtihd0" htmlUrl="https://www.life.church/leadershippodcast"/>
     <outline text="Dumpster Fire with Bridget Phetasy" title="Dumpster Fire with Bridget Phetasy" type="rss" xmlUrl="https://rss.buzzsprout.com/2497884.rss" htmlUrl="https://www.phetasy.com/s/dumpster-fire-podcast"/>
+    <outline text="Good Hang with Amy Poehler" title="Good Hang with Amy Poehler" type="rss" xmlUrl="https://feeds.megaphone.fm/good-hang-with-amy-poehler" htmlUrl="https://www.theringer.com"/>
     <outline text="Lex Fridman Podcast" title="Lex Fridman Podcast" type="rss" xmlUrl="https://lexfridman.com/feed/podcast/" htmlUrl="https://lexfridman.com/"/>
     <outline text="Life Kit" title="Life Kit" type="rss" xmlUrl="https://feeds.npr.org/510338/podcast.xml" htmlUrl="https://www.npr.org/podcasts/510338/all-guides"/>
-    <outline text="More or Less" title="More or Less" type="rss" xmlUrl="https://podcasts.files.bbci.co.uk/p02nrss1.rss" htmlUrl="http://www.bbc.co.uk/programmes/p02nrss1"/>
+    <outline text="New Heights with Jason &amp; Travis Kelce" title="New Heights with Jason &amp; Travis Kelce" type="rss" xmlUrl="https://rss.art19.com/new-heights" htmlUrl="http://hoo.be/newheightshow"/>
+    <outline text="On Purpose with Jay Shetty" title="On Purpose with Jay Shetty" type="rss" xmlUrl="https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/32f1779e-bc01-4d36-89e6-afcb01070c82/e0c8382f-48d4-42bb-89d5-afcb01075cb4/podcast.rss" htmlUrl="https://www.iheart.com/podcast/867-on-purpose-with-jay-shetty-30589432/"/>
+    <outline text="Pardon My Take" title="Pardon My Take" type="rss" xmlUrl="https://mcsorleys.barstoolsports.com/feed/pardon-my-take" htmlUrl="https://www.barstoolsports.com/shows/pardon-my-take"/>
     <outline text="Planet Money" title="Planet Money" type="rss" xmlUrl="https://feeds.npr.org/510289/podcast.xml" htmlUrl="https://www.npr.org/podcasts/510289/planet-money"/>
-    <outline text="Racket To Go" title="Racket To Go" type="rss" xmlUrl="https://api.substack.com/feed/podcast/1042/s/9388.rss" htmlUrl="https://www.racket.news/s/racket-to-go"/>
+    <outline text="Pod Save America" title="Pod Save America" type="rss" xmlUrl="https://audioboom.com/channels/5166624.rss" htmlUrl="https://audioboom.com/channels/5166624"/>
+    <outline text="Rotten Mango" title="Rotten Mango" type="rss" xmlUrl="https://feeds.simplecast.com/6Qp23t6h" htmlUrl="https://www.rottenmangopodcast.com/"/>
     <outline text="Short Wave" title="Short Wave" type="rss" xmlUrl="https://feeds.npr.org/510351/podcast.xml" htmlUrl="https://www.npr.org/podcasts/510351/short-wave"/>
+    <outline text="SmartLess" title="SmartLess" type="rss" xmlUrl="https://feeds.simplecast.com/hNaFxXpO" htmlUrl="https://www.smartless.com/"/>
+    <outline text="SOLVED with Mark Manson" title="SOLVED with Mark Manson" type="rss" xmlUrl="https://rss.pdrl.fm/6e7d4d/feeds.megaphone.fm/ISML9402684841" htmlUrl="https://solvedpodcast.com"/>
+    <outline text="Stuff You Should Know" title="Stuff You Should Know" type="rss" xmlUrl="https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/44710ecc-10bb-48d1-93c7-ae270180c33e/podcast.rss" htmlUrl="https://www.iheart.com/podcast/105-stuff-you-should-know-26940277/"/>
+    <outline text="Stuff You Should Know" title="Stuff You Should Know" type="rss" xmlUrl="https://media.rss.com/stuff-you-should-know/feed.xml" htmlUrl="https://rss.com/podcasts/stuff-you-should-know"/>
     <outline text="TED Radio Hour" title="TED Radio Hour" type="rss" xmlUrl="https://feeds.npr.org/510298/podcast.xml" htmlUrl="https://www.npr.org/podcasts/510298/ted-radio-hour"/>
+    <outline text="The Bible in a Year (with Fr. Mike Schmitz)" title="The Bible in a Year (with Fr. Mike Schmitz)" type="rss" xmlUrl="https://feeds.fireside.fm/bibleinayear/rss" htmlUrl="https://bibleinayear.fireside.fm"/>
     <outline text="The Brett Cooper Show" title="The Brett Cooper Show" type="rss" xmlUrl="https://feeds.megaphone.fm/RSV6952153075" htmlUrl="https://podcasters.spotify.com/pod/show/brett-cooper18"/>
     <outline text="The Joe Rogan Experience" title="The Joe Rogan Experience" type="rss" xmlUrl="https://feeds.megaphone.fm/GLT1412515089"/>
     <outline text="The Jordan B. Peterson Podcast" title="The Jordan B. Peterson Podcast" type="rss" xmlUrl="https://feeds.megaphone.fm/BVDWV6444647327" htmlUrl="https://www.jordanbpeterson.com"/>
+    <outline text="The MeidasTouch Podcast" title="The MeidasTouch Podcast" type="rss" xmlUrl="https://feeds.megaphone.fm/PDR2572281095" htmlUrl="https://www.meidastouch.com/podcast"/>
+    <outline text="The Mel Robbins Podcast" title="The Mel Robbins Podcast" type="rss" xmlUrl="https://feeds.simplecast.com/UCwaTX1J" htmlUrl="https://www.siriusxm.com"/>
+    <outline text="The Shawn Ryan Show" title="The Shawn Ryan Show" type="rss" xmlUrl="https://feeds.megaphone.fm/WWO7410387571" htmlUrl="https://shawnryanshow.com"/>
     <outline text="TRIGGERnometry" title="TRIGGERnometry" type="rss" xmlUrl="https://feeds.megaphone.fm/AALT9618167458" htmlUrl="https://www.triggerpod.co.uk/"/>
-    <outline text="Undercurrents" title="Undercurrents" type="rss" xmlUrl="https://feeds.acast.com/public/shows/66a213f122781665a98b6e29" htmlUrl="https://shows.acast.com/undercurrents"/>
     <outline text="Up First from NPR" title="Up First from NPR" type="rss" xmlUrl="https://feeds.npr.org/510318/podcast.xml" htmlUrl="https://www.npr.org/podcasts/510318/up-first"/>
-    <outline text="Wait Wait... Don't Tell Me!" title="Wait Wait... Don't Tell Me!" type="rss" xmlUrl="https://feeds.npr.org/344098539/podcast.xml" htmlUrl="https://www.npr.org/podcasts/344098539/wait-wait-don-t-tell-me"/>
+    <outline text="Walk-Ins Welcome with Bridget Phetasy" title="Walk-Ins Welcome with Bridget Phetasy" type="rss" xmlUrl="https://rss.buzzsprout.com/2433291.rss" htmlUrl="https://www.phetasy.com/s/walk-ins-welcome"/>
+    <outline text="Wiser Than Me with Julia Louis-Dreyfus" title="Wiser Than Me with Julia Louis-Dreyfus" type="rss" xmlUrl="https://www.omnycontent.com/d/playlist/796469f9-ea34-46a2-8776-ad0f015d6beb/6bf95617-5ffc-4269-a957-afcc015a4d66/ca180b09-a8bc-4612-92fe-afcc015ae720/podcast.rss" htmlUrl="https://www.lemonadamedia.com/"/>
   </body>
 </opml>
