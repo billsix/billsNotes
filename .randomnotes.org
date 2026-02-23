@@ -76,3 +76,5 @@ bash
 Copy code
 change ide1-cd0 debian-2.iso
 Press Ctrl+Alt+1 to switch back to the installation process.
+* gpg tty for git
+export GPG_TTY=$(tty)
