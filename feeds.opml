@@ -2,7 +2,7 @@
 <opml version="2.0">
     <head>
         <title>Miniflux</title>
-        <dateCreated>Fri, 03 Apr 2026 14:39:13 UTC</dateCreated>
+        <dateCreated>Sat, 25 Apr 2026 13:12:21 UTC</dateCreated>
     </head>
     <body>
         <outline text="AAFriends">
@@ -100,9 +100,7 @@
             <outline title="Ask America With Edgar" text="Ask America With Edgar" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCa6YLYY-0IHAo0Nc-iL5GNQ" htmlUrl="https://www.youtube.com/channel/UCa6YLYY-0IHAo0Nc-iL5GNQ" type="rss"/>
             <outline title="HL - Talk That Thought" text="HL - Talk That Thought" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCvdj6qUtIo4dtamZeCZFxrw" htmlUrl="https://www.youtube.com/channel/UCvdj6qUtIo4dtamZeCZFxrw" type="rss"/>
             <outline title="It’s All Your Fault: High Conflict People" text="It’s All Your Fault: High Conflict People" xmlUrl="https://feeds.transistor.fm/itsallyourfault" htmlUrl="https://trustory.fm/its-all-your-fault" type="rss"/>
-            <outline title="Jedediah Bila" text="Jedediah Bila" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCwUiOTf26Vn0TK51IqQeBrA" htmlUrl="https://www.youtube.com/channel/UCwUiOTf26Vn0TK51IqQeBrA" type="rss"/>
             <outline title="LanguageJones" text="LanguageJones" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCVwfqPkv08OTuHzkPU3EaDw" htmlUrl="https://www.youtube.com/channel/UCVwfqPkv08OTuHzkPU3EaDw" type="rss"/>
-            <outline title="Man Guide" text="Man Guide" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCDHVMYiisHP3S6S07Dv_AKA" htmlUrl="https://www.youtube.com/channel/UCDHVMYiisHP3S6S07Dv_AKA" type="rss"/>
             <outline title="Rationality Rules" text="Rationality Rules" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCqZMgLgGlYAWvSU8lZ9xiVg" htmlUrl="https://www.youtube.com/channel/UCqZMgLgGlYAWvSU8lZ9xiVg" type="rss"/>
             <outline title="SmarterEveryDay" text="SmarterEveryDay" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC6107grRI4m0o2-emgoDnAA" htmlUrl="https://www.youtube.com/channel/UC6107grRI4m0o2-emgoDnAA" type="rss"/>
             <outline title="Smosh" text="Smosh" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCY30JRSgfhYXA6i6xX1erWg" htmlUrl="https://www.youtube.com/channel/UCY30JRSgfhYXA6i6xX1erWg" type="rss"/>
