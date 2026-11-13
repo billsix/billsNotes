@@ -2,30 +2,23 @@
 <opml version="2.0">
   <head>
     <title>AntennaPod Subscriptions</title>
-    <dateCreated>05 Apr 26 10:14:40 -0400</dateCreated>
+    <dateCreated>12 Nov 26 22:30:35 -0500</dateCreated>
   </head>
   <body>
-    <outline text="America This Week" title="America This Week" type="rss" xmlUrl="https://api.substack.com/feed/podcast/1042/s/24549.rss" htmlUrl="https://www.racket.news/s/america-this-week"/>
-    <outline text="AP Newswatch: Top Stories from the Associated Press" title="AP Newswatch: Top Stories from the Associated Press" type="rss" xmlUrl="https://audioboom.com/channels/5023446.rss" htmlUrl="https://audioboom.com/channels/5023446"/>
     <outline text="Coaching Corner" title="Coaching Corner" type="rss" xmlUrl="https://feeds.captivate.fm/jaydigains-coaching-corner/" htmlUrl="https://jaydharrisonfitness.com/podcast"/>
     <outline text="Craig Groeschel Leadership Podcast" title="Craig Groeschel Leadership Podcast" type="rss" xmlUrl="https://feeds.simplecast.com/atgtihd0" htmlUrl="https://www.life.church/leadershippodcast"/>
     <outline text="Dumpster Fire with Bridget Phetasy" title="Dumpster Fire with Bridget Phetasy" type="rss" xmlUrl="https://rss.buzzsprout.com/2497884.rss" htmlUrl="https://www.phetasy.com/s/dumpster-fire-podcast"/>
-    <outline text="Headline News from The Associated Press" title="Headline News from The Associated Press" type="rss" xmlUrl="https://audioboom.com/channels/3270305.rss" htmlUrl="https://audioboom.com/channels/3270305"/>
-    <outline text="Latest Stories from The Associated Press" title="Latest Stories from The Associated Press" type="rss" xmlUrl="https://audioboom.com/channels/4277258.rss" htmlUrl="https://audioboom.com/channels/4277258"/>
     <outline text="Lex Fridman Podcast" title="Lex Fridman Podcast" type="rss" xmlUrl="https://lexfridman.com/feed/podcast/" htmlUrl="https://lexfridman.com/"/>
     <outline text="Life Kit" title="Life Kit" type="rss" xmlUrl="https://feeds.npr.org/510338/podcast.xml" htmlUrl="https://www.npr.org/podcasts/510338/all-guides"/>
     <outline text="Planet Money" title="Planet Money" type="rss" xmlUrl="https://feeds.npr.org/510289/podcast.xml" htmlUrl="https://www.npr.org/podcasts/510289/planet-money"/>
     <outline text="Reuters World News" title="Reuters World News" type="rss" xmlUrl="https://feeds.megaphone.fm/reutersworldnews" htmlUrl="https://www.reuters.com/podcasts/"/>
     <outline text="Short Wave" title="Short Wave" type="rss" xmlUrl="https://feeds.npr.org/510351/podcast.xml" htmlUrl="https://www.npr.org/podcasts/510351/short-wave"/>
     <outline text="SOLVED with Mark Manson" title="SOLVED with Mark Manson" type="rss" xmlUrl="https://rss.pdrl.fm/6e7d4d/feeds.megaphone.fm/ISML9402684841" htmlUrl="https://solvedpodcast.com"/>
-    <outline text="Stuff You Should Know" title="Stuff You Should Know" type="rss" xmlUrl="https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/44710ecc-10bb-48d1-93c7-ae270180c33e/podcast.rss" htmlUrl="https://www.iheart.com/podcast/105-stuff-you-should-know-26940277/"/>
     <outline text="The Bible in a Year (with Fr. Mike Schmitz)" title="The Bible in a Year (with Fr. Mike Schmitz)" type="rss" xmlUrl="https://feeds.fireside.fm/bibleinayear/rss" htmlUrl="https://bibleinayear.fireside.fm"/>
-    <outline text="The Brett Cooper Show" title="The Brett Cooper Show" type="rss" xmlUrl="https://feeds.megaphone.fm/RSV6952153075" htmlUrl="https://podcasters.spotify.com/pod/show/brett-cooper18"/>
-    <outline text="The Jedediah Bila Show" title="The Jedediah Bila Show" type="rss" xmlUrl="https://rss.buzzsprout.com/2458330.rss" htmlUrl="https://www.buzzsprout.com/2458330"/>
+    <outline text="The Brett Cooper Show" title="The Brett Cooper Show" type="rss" xmlUrl="https://speakeasystudio.ai/f/LOyK6X781cWbRtwu" htmlUrl="https://feeds.megaphone.fm/RSV8690929871"/>
     <outline text="The Jordan B. Peterson Podcast" title="The Jordan B. Peterson Podcast" type="rss" xmlUrl="https://feeds.megaphone.fm/BVDWV6444647327" htmlUrl="https://www.jordanbpeterson.com"/>
     <outline text="TRIGGERnometry" title="TRIGGERnometry" type="rss" xmlUrl="https://feeds.megaphone.fm/AALT9618167458" htmlUrl="https://www.triggerpod.co.uk/"/>
-    <outline text="Up First from NPR" title="Up First from NPR" type="rss" xmlUrl="https://feeds.npr.org/510318/podcast.xml" htmlUrl="https://www.npr.org/podcasts/510318/up-first"/>
     <outline text="Walk-Ins Welcome with Bridget Phetasy" title="Walk-Ins Welcome with Bridget Phetasy" type="rss" xmlUrl="https://rss.buzzsprout.com/2433291.rss" htmlUrl="https://www.phetasy.com/s/walk-ins-welcome"/>
-    <outline text="Wiser Than Me with Julia Louis-Dreyfus" title="Wiser Than Me with Julia Louis-Dreyfus" type="rss" xmlUrl="https://www.omnycontent.com/d/playlist/796469f9-ea34-46a2-8776-ad0f015d6beb/6bf95617-5ffc-4269-a957-afcc015a4d66/ca180b09-a8bc-4612-92fe-afcc015ae720/podcast.rss" htmlUrl="https://www.lemonadamedia.com/"/>
+    <outline text="Wiser Than Me with Julia Louis-Dreyfus" title="Wiser Than Me with Julia Louis-Dreyfus" type="rss" xmlUrl="https://feeds.megaphone.fm/LEME2226086440" htmlUrl="https://www.lemonadamedia.com/"/>
   </body>
 </opml>
